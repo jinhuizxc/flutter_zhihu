@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "type": 1,
+      "content": "测试数据1",
+      "created_time": 1534064164,
+      "username": "用户1"
+    },
+    {
+      "type": 2,
+      "content": "测试数据2",
+      "created_time": 1534064164,
+      "username": "用户2"
+    },
+    {
+      "type": 3,
+      "content": "测试数据3",
+      "created_time": 1534064164,
+      "username": "用户3"
+    },
+    {
+      "type": 1,
+      "content": "测试数据4",
+      "created_time": 1534064164,
+      "username": "用户4"
+    },
+    {
+      "type": 2,
+      "content": "测试数据4",
+      "created_time": 1534064164,
+      "username": "用户4"
+    }
+  ]
+}
